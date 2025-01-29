@@ -1,0 +1,3 @@
+cicd/__pycache__
+cicd/.pytest_cache
+cicd/temp_test_run_data.json
